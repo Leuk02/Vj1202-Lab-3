@@ -27,3 +27,4 @@ def dec2bin(numero_decimal, numero_bits):
 print (dec2bin(-1, 4))
 print (dec2bin(-1, 8))
 
+## Soy Lucas y he modificado este archivo
