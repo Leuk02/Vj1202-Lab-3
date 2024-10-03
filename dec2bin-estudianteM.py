@@ -26,4 +26,5 @@ def dec2bin(numero_decimal, numero_bits):
 #comprobacion de funcionamiento
 print (dec2bin(-1, 4))
 print (dec2bin(-1, 8))
+#soy Jordi y he comentado
 
